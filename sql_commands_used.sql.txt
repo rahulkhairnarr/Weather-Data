@@ -1,0 +1,13 @@
+SELECT *
+  FROM city_list
+    WHERE country = 'India';
+
+
+SELECT *
+  FROM city_data
+    WHERE city = 'Hyderabad' AND country = 'India';
+
+
+SELECT *
+  FROM global_data;
+
